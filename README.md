@@ -11,9 +11,9 @@ Tato aplikace byla vytvořena za účelem semestrálního projektu
 - Úprava a smazání úkolu
 - Filtrace Splněných/Nesplněných úkolu
 ## Výstup aplikace
-[Zobrazení pro uživatele](https://todo-aleveha.vercel.app/)
+[Zobrazení pro uživatele](https://todo-eight-murex.vercel.app/)
 >Výstup pro strojové zpracovaní:
-https://todo-aleveha.vercel.app/api/todo/{email}
+https://todo-eight-murex.vercel.app/api/todo/{email}
 > {email} nahradtě Vaším přihlašovacím emailem
 ## Popis aplikace
 Pro vizuální stránku projektu je použito [Tailwindcss](https://tailwindcss.com/docs/installation)
